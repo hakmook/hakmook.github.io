@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://wangruinju.github.io/"
+url: "https://hakmook.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Rui Wang
+  title: Hakmook Kang
   avatar: assets/img/my_pic.png?raw=true
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
