@@ -6,7 +6,7 @@ url: "https://hakmook.github.io/"
 theme_settings:
   # Meta
   title: Hakmook Kang
-  avatar: assets/img/my_pic.png?raw=true
+  avatar: assets/img/my_pic.jpg?raw=true
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -22,24 +22,24 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "wangruinju@gmail.com" # Full email address, e.g. "sam@example.com"
+  email_address: "hakmook.kang@vumc.org" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook: wangruinju
+  facebook: hakmook.kang
   flickr:
   gitlab:
-  github: "wangruinju"
+  github: "hakmook"
   google_plus:
   instagram: 
-  linkedin: "https://www.linkedin.com/in/wangruinju/" # Full URL
+  linkedin: "www.linkedin.com/in/hakmook/" # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "Reid_Wang"
+  twitter: 
   wordpress:
   youtube:
 
